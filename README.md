@@ -1,1 +1,8 @@
 # personalDevelopment
+
+FOCUS
+==> HTML5,CSS3 PROJECTS.
+
+HTML5 ELEMNETS
+CSS3 TECHNIQUES
+APIs
